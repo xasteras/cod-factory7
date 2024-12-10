@@ -1,9 +1,7 @@
 package gr.aueb.cf.ch1;
 
-public class HelloWorld {
-
+public class TestApp {
     public static void main(String[] args) {
-        System.out.println("Hello, World");
-
+        System.out.println("This is a test app");
     }
 }
